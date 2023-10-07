@@ -1,0 +1,5 @@
+{
+  "src/env.mjs": "*",
+  "src/pages/**": "*",
+  "src/components/design-editor/utils/text-to-svg.ts": "*"
+}

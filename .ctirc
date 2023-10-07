@@ -1,0 +1,16 @@
+{
+  "project": "./tsconfig.json",
+  "exportFilename": "index.ts",
+  "useSemicolon": true,
+  "useTimestamp": false,
+  "useComment": false,
+  "quote": "'",
+  "overwrite": true,
+  "keepFileExt": false,
+  "skipEmptyDir": true,
+  "output": "./",
+  "useRootDir": false,
+  "includeBackup": true,
+  "noBackup": true,
+  "startAt": "./src"
+}
